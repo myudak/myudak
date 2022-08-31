@@ -15,6 +15,7 @@ Im a passionate learner and an tech enthusiast
 
 <img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/languages.svg">
 
+
 ### 👁‍🗨 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/{myudak}/count.svg)
 
@@ -43,6 +44,8 @@ Im a passionate learner and an tech enthusiast
   <a href="mailto:yudaplzhacker@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
  <!-- <a href="https://medium.com/@nurimammasri" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  -->
 </p>
+
+<img  src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" height="150px">
 
 
 
