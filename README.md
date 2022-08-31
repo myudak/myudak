@@ -1,4 +1,4 @@
-<img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/overview.svg">
 
 Hi 👋 My name is Muchamad Yuda
 ===============================
