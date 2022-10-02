@@ -1,4 +1,5 @@
 <img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/overview.svg">
+<img src="https://www.codewars.com/users/m.yudak/badges/large">
 
 Hi 👋 My name is Muchamad Yuda
 ===============================
@@ -46,6 +47,7 @@ Im a passionate learner and an tech enthusiast
 </p>
 
 <img  src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" height="150px">
+
 
 
 
