@@ -5,7 +5,6 @@ Hi 👋 My name is Muchamad Yuda
 ===============================
 
 <!-- Tech Enthusiast and Student at SMA Vidatra, Bontang -->
----------------------------------
 <a href="https://www.github.com/myudak" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gabrielhozana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 - 🔭 I’m currently a student on <a href="https://smaypvdpbontang.sch.id/">SMA Vidatra Bontang</a> 
