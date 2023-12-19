@@ -21,10 +21,6 @@ Hi 👋 My name is Muchamad Yuda
 
 Im a passionate learner and an tech enthusiast 
 
-<img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/languages.svg">
-
-
-
 
 ### 👁‍🗨 Visitors Count
 ![Visitor Count](https://profile-counter.glitch.me/{myudak}/count.svg)
