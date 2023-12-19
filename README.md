@@ -1,4 +1,3 @@
-<img align='right' src = "https://github.com/myudak/github-stats/blob/output/generated/overview.svg">
 <img src="https://www.codewars.com/users/m.yudak/badges/large">
 
 Hi 👋 My name is Muchamad Yuda
@@ -59,20 +58,5 @@ Im a passionate learner and an tech enthusiast
 
 <img  src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" height="150px">
 
-
-
-
-<!--
-**myudak/myudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+[![myudak's GitHub stats](https://github-readme-stats.vercel.app/api?username=myudak)](https://github.com/anuraghazra/github-readme-stats)
