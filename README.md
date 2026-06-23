@@ -1,58 +1,122 @@
-<img src="https://www.codewars.com/users/m.yudak/badges/large">
+# Hi, I'm Muchamad Yuda
 
-Hi 👋 My name is Muchamad Yuda
-===============================
+**Informatics student at Diponegoro University** from Bontang, Indonesia. I build practical software, AI-assisted tools, and engineering systems that turn messy real-world workflows into cleaner digital products.
 
-<!-- Tech Enthusiast and Student at SMA Vidatra, Bontang -->
-<a href="https://www.github.com/myudak" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/gabrielhozana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Currently exploring **software engineering, AI agents, web apps, robotics vision, IoT, and offshore engineering computation**.
 
-- 🔭 I’m currently a student on <a href="https://smaypvdpbontang.sch.id/">SMA Vidatra Bontang</a> 
-- 👀 I’m interested in machine learning and enjoy exploring everything about data
-- ⚡ I’m currently learning about data for data scientist, web development and software engineer
-- 🌱 **"from zero to at least not zero"**
-- 💬 Feel free to ask me about me
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## ⚙ Latest Projects
-| Projects | Description |
-| ----------- | ----------- |
-| [E-commerce Web Storefront With Medusa.js](https://github.com/myudak/vms-storefront) | in October 2022, as part of the Hacktoberfest movement, I am participating in the Medusa hackathon, with the goal of creating a project utilizing Medusa.js to develop a cutting-edge storefront website.  |
-| CreditRiskPrediction | Project Based Intern Data Scientist Virtual Internship ID/X Partners,for the final project building a model that can predict credit risk using a dataset provided by the company consisting of data on loans received and rejected. And visual media ( Data Visualization ) to present solutions to clients. |
-| [AllyMotion](https://github.com/myudak/AllyMotion) | Health Management App With Convolutional Neural Network And Gamified Exercise With Pose Detection. |
+## Start Here
 
-Im a passionate learner and an tech enthusiast 
+- **SEA Catering** - subscription-based catering web app with authentication, customer flows, and admin operations.
+- **I-GATE Ticketing** - event ticketing system with QR validation, payments, and admin scanning workflow.
+- **Siap Dips** - browser extension that improves UNDIP student portal usability with cleaner UI helpers.
+- **Siap Suhu** - IoT temperature monitoring system using ESP32, MQTT, Telegram alerts, SQLite, and dashboarding.
+- **Robotics Vision Pipeline** - object detection workflow using D-FINE, ONNX, and TensorRT for robotics experiments.
+- **Hydrambler** - smart tumbler prototype using Arduino Pro Mini, RTC module, and Bluetooth communication.
 
+## Featured Projects
 
-### 👁‍🗨 Visitors Count
-![Visitor Count](https://profile-counter.glitch.me/{myudak}/count.svg)
+### Web Apps & Product Engineering
 
+- **SEA Catering**  
+  Built with Next.js, Supabase, Tailwind CSS, and shadcn/ui. Focused on real product workflows: plan selection, subscriptions, account handling, and admin visibility.
 
+- **I-GATE Ticketing**  
+  A ticketing platform for event-scale operations, including QR-based validation, payment integration, and scanner/admin flows.
 
-### 🏅 Skills
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-</p>
+- **Personal Site & Blog**  
+  A portfolio and writing system built with Next.js, MDX, Tailwind CSS, Turso, and Drizzle.
 
-## 📬 Find me and let's connect 
+### Browser Extensions
 
-<p>
-  <a href="https://www.linkedin.com/in/myudak/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/n.yudak" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a> 
-   <a href="https://www.kaggle.com/myudak" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:yudaplzhacker@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a> 
- <a href="https://medium.com/@myudak" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
- <a href="https://codewars.com/users/m.yudak" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a> 
-</p>
-<img  src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" height="150px">
+- **Siap Dips**  
+  A Vite, React, TypeScript, Tailwind, and Manifest V3 extension for improving campus portal UX. Includes IPK display helpers, draggable todo, quote widgets, and interface cleanup.
 
-## Github Stats
-[![myudak's GitHub stats](https://github-readme-stats.vercel.app/api?username=myudak)](https://github.com/anuraghazra/github-readme-stats)
+- **Website Redesign Extension Experiments**  
+  Exploring how browser extensions can restyle specific websites using lightweight DOM analysis, screenshots, and injected UI layers.
+
+### AI, Robotics & Systems
+
+- **Robotics Vision Experiments**  
+  Model conversion and deployment workflow using D-FINE, ONNX, TensorRT, and robotics-oriented perception pipelines.
+
+- **AI-Assisted Engineering Workflows**  
+  Using LLMs and coding agents to speed up research, analysis, documentation, and software prototyping across web, IoT, and engineering projects.
+
+- **IoT Monitoring Stack**  
+  ESP32 sensor logging with MQTT, a local worker, Telegram notifications, SQLite storage, and dashboard visualization.
+
+### Engineering & Academic Work
+
+- **SPAR FOWT with Rotary TMD**  
+  Offshore engineering analysis and presentation work covering SPAR floating wind turbine concepts, rotary tuned mass dampers, RAO interpretation, structural integrity, risk analysis, and cost estimation.
+
+- **Cathodic Protection Design for FPSO**  
+  Academic design work around SACP and ICCP concepts, coating breakdown factor, anode/reference electrode placement, dielectric shield assumptions, and offshore corrosion protection logic.
+
+## Current Focus
+
+- Building production-like web apps with **Next.js, Supabase, Tailwind, shadcn/ui, and payment/auth integrations**.
+- Learning stronger **AI agent workflows** for coding, research, documentation, and automation.
+- Preparing a stronger portfolio for **Apple Developer Academy** and software engineering opportunities.
+- Connecting computer science with engineering domains such as **robotics, offshore structures, IoT, and simulation workflows**.
+
+## Skills I Use
+
+| Area | Tools |
+| --- | --- |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui |
+| Backend | Supabase, PostgreSQL, SQLite, Drizzle, REST APIs |
+| Automation | GitHub Actions, browser extensions, scripting, Codex-style agent workflows |
+| AI & ML | Python, model deployment basics, ONNX, TensorRT, LLM-assisted tooling |
+| IoT | ESP32, Arduino, MQTT, sensors, Telegram bot integration |
+| Engineering | ANSYS learning, offshore structures, corrosion protection, numerical methods |
+
+## Achievements
+
+- Top 10 HackFest 2023 with **Sandbox**.
+- KSN Informatics 2023 East Kalimantan finalist.
+- ARA 4.0 finalist.
+- ICPC Asia Jakarta Regional 2024 participant with team **Bogo Bogo Sort**.
+- Hacktoberfest contributor.
+- Google Arcade and Gemini API Developer Competition participant.
+
+## What I'm Learning
+
+- **Software architecture** for apps that need auth, payments, dashboards, and admin workflows.
+- **Human-centered product design** with clean UI, good defaults, and practical user flows.
+- **Competitive programming and algorithms**, especially graph search, dynamic programming, backtracking, and branch and bound.
+- **Engineering computation**, including structural dynamics, offshore systems, corrosion, and simulation-driven design.
+- **AI-native development**, using agents as collaborators for research, implementation, testing, and writing.
+
+## Writing & Notes
+
+I write and document what I learn across software engineering, AI, systems, and engineering computation.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this block with your latest posts if you use a blog automation. -->
+- Building practical software with AI-assisted workflows.
+- Notes on browser extensions, web product engineering, and student tooling.
+- Engineering study notes on offshore structures, corrosion protection, and numerical methods.
+<!-- BLOG-POST-LIST:END -->
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/myudak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://myudak.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@myudak.com)
+
+---
+
+> Build useful things, learn in public, and make the next version cleaner than the last.
