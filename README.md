@@ -17,10 +17,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ## Start Here
 
-- **SEA Catering** - subscription-based catering web app with authentication, customer flows, and admin operations.
-- **I-GATE Ticketing** - event ticketing system with QR validation, payments, and admin scanning workflow.
 - **Siap Dips** - browser extension that improves UNDIP student portal usability with cleaner UI helpers.
-- **Siap Suhu** - IoT temperature monitoring system using ESP32, MQTT, Telegram alerts, SQLite, and dashboarding.
 - **Robotics Vision Pipeline** - object detection workflow using D-FINE, ONNX, and TensorRT for robotics experiments.
 - **Hydrambler** - smart tumbler prototype using Arduino Pro Mini, RTC module, and Bluetooth communication.
 
@@ -28,30 +25,26 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Web Apps & Product Engineering
 
-- **SEA Catering**  
-  Built with Next.js, Supabase, Tailwind CSS, and shadcn/ui. Focused on real product workflows: plan selection, subscriptions, account handling, and admin visibility.
 
 - **I-GATE Ticketing**  
   A ticketing platform for event-scale operations, including QR-based validation, payment integration, and scanner/admin flows.
 
-- **Personal Site & Blog**  
-  A portfolio and writing system built with Next.js, MDX, Tailwind CSS, Turso, and Drizzle.
 
 ### Browser Extensions
 
 - **Siap Dips**  
   A Vite, React, TypeScript, Tailwind, and Manifest V3 extension for improving campus portal UX. Includes IPK display helpers, draggable todo, quote widgets, and interface cleanup.
-
-- **Website Redesign Extension Experiments**  
-  Exploring how browser extensions can restyle specific websites using lightweight DOM analysis, screenshots, and injected UI layers.
-
+  
+- **[Lensprout](https://github.com/myudak/lensprout) — Smart Screen Recording Extension**  
+  Building a privacy-first Chrome extension for cinematic screen recordings, featuring automatic zooms based on clicks and typing, a multi-track video editor, WebGL2-powered 3D camera effects, customizable webcam layouts, and local MP4/GIF export.
+  
 ### AI, Robotics & Systems
 
 - **Robotics Vision Experiments**  
   Model conversion and deployment workflow using D-FINE, ONNX, TensorRT, and robotics-oriented perception pipelines.
 
-- **AI-Assisted Engineering Workflows**  
-  Using LLMs and coding agents to speed up research, analysis, documentation, and software prototyping across web, IoT, and engineering projects.
+- **Robotics Motion & Control**
+  Building robotics motion and control systems using ROS 2, reinforcement learning (RL), and machine learning (ML). Working with forward and inverse kinematics, motion planning, trajectory generation, and feedback control, alongside simulation environments and interactive dashboards for robot visualization, telemetry, monitoring, and control.
 
 - **IoT Monitoring Stack**  
   ESP32 sensor logging with MQTT, a local worker, Telegram notifications, SQLite storage, and dashboard visualization.
