@@ -23,8 +23,22 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Web Apps & Product Engineering
 
+### Web Apps & Product Engineering
+
+- **[HAWK-EYE / JudolGraph — OSINT Investigation Platform](https://github.com/myudak/hawkeye-judolgraph)**  
+  Built an evidence-first OSINT platform for investigating online gambling ecosystems. Features automated browser investigation with Playwright, deterministic data extraction, interactive temporal knowledge graphs, investigation replay, and human-reviewed evidence. Powered by React, FastAPI, Python, and SQLite.
+
+- **[Pavana — Wildfire Smoke & Air Quality Intelligence](https://github.com/myudak/pavana)**  
+  Developed a location-aware environmental monitoring platform combining satellite hotspots, weather forecasts, wind patterns, and PM2.5 data to assess potential wildfire smoke exposure. Features interactive geospatial maps, experimental LightGBM predictions with SHAP explainability, an AI assistant, and web/mobile interfaces.
+
+- **[Sthana Kampus — Campus Facility Management](https://github.com/ZaidaanArd/ProjectPPK)**  
+  Led technical and backend development of a full-stack campus facility reservation and reporting platform. Features real-time availability, conflict-safe booking, role-based access control, maintenance reporting, and administrative dashboards. Built with Next.js, Convex, Better Auth, and TypeScript.
+
 - **I-GATE Ticketing**  
-  A ticketing platform for event-scale operations, including QR-based validation, payment integration, and scanner/admin flows.
+  Developed an event ticketing platform supporting QR-based ticket verification, payment gateway integration, and dedicated scanner and administrative workflows for managing event-scale operations.
+
+- **[indonesia.gov — Digital Government Experience Concept](https://github.com/myudak/indonesia.gov)**  
+  Designed and built an unofficial concept for a unified Indonesian government services portal, exploring accessible digital public services through interactive service discovery, conversational UI prototypes, and motion-driven storytelling. Built with Astro, GSAP, Tailwind CSS, and Remotion.
 
 
 ### Browser Extensions
