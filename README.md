@@ -17,7 +17,6 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 - **Siap Dips** - browser extension that improves UNDIP student portal usability with cleaner UI helpers.
 - **Robotics Vision Pipeline** - object detection workflow using D-FINE, ONNX, and TensorRT for robotics experiments.
-- **Hydrambler** - smart tumbler prototype using Arduino Pro Mini, RTC module, and Bluetooth communication.
 
 ## Featured Projects
 
@@ -57,6 +56,8 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 - **IoT Monitoring Stack**  
   ESP32 sensor logging with MQTT, a local worker, Telegram notifications, SQLite storage, and dashboard visualization.
+
+- **Hydrambler** - smart tumbler prototype using Arduino Pro Mini, RTC module, and Bluetooth communication.
 
 ### Engineering & Academic Work
 
