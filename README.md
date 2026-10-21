@@ -67,12 +67,13 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - **Cathodic Protection Design for FPSO**  
   Academic design work around SACP and ICCP concepts, coating breakdown factor, anode/reference electrode placement, dielectric shield assumptions, and offshore corrosion protection logic.
 
-## Current Focus
+### Developer Tools & Open Source
 
-- Building production-like web apps with **Next.js, Supabase, Tailwind, shadcn/ui, and payment/auth integrations**.
-- Learning stronger **AI agent workflows** for coding, research, documentation, and automation.
-- Preparing a stronger portfolio for **Apple Developer Academy** and software engineering opportunities.
-- Connecting computer science with engineering domains such as **robotics, offshore structures, IoT, and simulation workflows**.
+- **[vite-plugin-flatten-output — Vite Build Plugin](https://github.com/myudak/vite-plugin-flatten-output)**  
+  Developed and published an npm plugin for simplifying Vite build outputs by flattening nested file structures. Supports configurable directory removal and file matching, particularly useful for multi-page applications and Chrome/Firefox extension development.
+
+- **[Vision-Label — AI-Powered Image Renaming](https://github.com/myudak/Vision-Label)**  
+  Built a Python CLI utility that uses Google's Gemini multimodal API to automatically analyze image contents and generate human-readable filenames. Supports batch processing, customizable naming templates, filename validation, and Windows Explorer context-menu integration.
 
 ## Skills I Use
 
