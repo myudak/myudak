@@ -23,8 +23,6 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Web Apps & Product Engineering
 
-### Web Apps & Product Engineering
-
 - **[HAWK-EYE / JudolGraph — OSINT Investigation Platform](https://github.com/myudak/hawkeye-judolgraph)**  
   Built an evidence-first OSINT platform for investigating online gambling ecosystems. Features automated browser investigation with Playwright, deterministic data extraction, interactive temporal knowledge graphs, investigation replay, and human-reviewed evidence. Powered by React, FastAPI, Python, and SQLite.
 
