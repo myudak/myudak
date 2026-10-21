@@ -25,15 +25,14 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Web Apps & Product Engineering
 
-
 - **I-GATE Ticketing**  
   A ticketing platform for event-scale operations, including QR-based validation, payment integration, and scanner/admin flows.
 
 
 ### Browser Extensions
 
-- **Siap Dips**  
-  A Vite, React, TypeScript, Tailwind, and Manifest V3 extension for improving campus portal UX. Includes IPK display helpers, draggable todo, quote widgets, and interface cleanup.
+- **[Siap Dips — Campus Companion Extension](https://chromewebstore.google.com/detail/inpmbpkngacgeljphlapgdgdjmoffild)**  
+  Built and shipped a cross-browser extension for UNDIP students, reaching **1.8K+ installs and 1.2K+ peak weekly users**. Enhances campus portals with dark mode, academic progress tracking, Todoist integration, automated forms, and smarter navigation. Built with React, TypeScript, Vite, and Manifest V3, with automated Chrome and Firefox releases via GitHub Actions.
   
 - **[Lensprout](https://github.com/myudak/lensprout) — Smart Screen Recording Extension**  
   Building a privacy-first Chrome extension for cinematic screen recordings, featuring automatic zooms based on clicks and typing, a multi-track video editor, WebGL2-powered 3D camera effects, customizable webcam layouts, and local MP4/GIF export.
@@ -51,7 +50,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Engineering & Academic Work
 
-- **SPAR FOWT with Rotary TMD**  
+- [SPAR Dynamics Lab — Floating Wind Turbine Simulation](https://github.com/myudak/sandbox/tree/main/spar-dynamics-lab)
   Offshore engineering analysis and presentation work covering SPAR floating wind turbine concepts, rotary tuned mass dampers, RAO interpretation, structural integrity, risk analysis, and cost estimation.
 
 - **Cathodic Protection Design for FPSO**  
