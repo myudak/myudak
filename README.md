@@ -31,6 +31,9 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - **[Sthana Kampus — Campus Facility Management](https://github.com/ZaidaanArd/ProjectPPK)**  
   Led technical and backend development of a full-stack campus facility reservation and reporting platform. Features real-time availability, conflict-safe booking, role-based access control, maintenance reporting, and administrative dashboards. Built with Next.js, Convex, Better Auth, and TypeScript.
 
+- **[RPS OBE Studio — Outcome-Based Education Platform](https://github.com/myudak/rps-obe-studio)**  
+  Built a full-stack academic platform for managing outcome-based semester learning plans (RPS) at Universitas Diponegoro. Features AI-assisted RPS drafting with human approval, curriculum CPL/CPMK mapping, multi-stage review workflows, gradebooks, attainment analytics, continuous quality improvement (CQI), and role-based administration with audit logs. Built with React, Fastify, TypeScript, PostgreSQL, Drizzle ORM, Better Auth, and Vercel AI SDK.
+
 - **I-GATE Ticketing**  
   Developed an event ticketing platform supporting QR-based ticket verification, payment gateway integration, and dedicated scanner and administrative workflows for managing event-scale operations.
 
