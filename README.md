@@ -51,7 +51,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
   
 ### AI, Robotics & Systems
 
-- **[ChatDNA](https://github.com/myudak/sandbox/tree/main/chatdna)** — experimenting with LLM fine-tuning and building a GPT from scratch in PyTorch.
+- **[ChatDNA](https://github.com/myudak/sandbox/tree/main/chatdna)** — experimenting with LLM fine-tuning and building a GPT from scratch in PyTorch with my own whatsapp dataset lol
 
 - **[Bascorro UNDIP — Robotics Vision, Motion & Control](https://bascorro.com)**  
   Part of **Bascorro**, Undip Robotic Development Center, and built [bascorro.com](https://bascorro.com), the team's website. Working on robotics perception and control systems using ROS 2, reinforcement learning (RL), and machine learning (ML), including D-FINE object detection and model deployment with ONNX and TensorRT. Exploring forward and inverse kinematics, motion planning, trajectory generation, feedback control, and simulation dashboards for robot visualization, telemetry, and monitoring.
