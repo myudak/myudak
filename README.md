@@ -93,7 +93,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - Top 10 HackFest 2023 with **Sandbox**.
 - [National] Top Teams Indonesia National Contest (INC) 2024
 - KSN Informatics 2023 East Kalimantan finalist.
-- ARA 4.0 finalist.
+- [National] Top 5 Finalist – Cyber Security and IoT Olympics, ARA ITS 2023
 - ICPC Asia Jakarta Regional 2024 participant with team **Bogo Bogo Sort**.
 - Hacktoberfest contributor.
 - Google Arcade and Gemini API Developer Competition participant.
