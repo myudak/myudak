@@ -95,7 +95,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - KSN Informatics 2023 East Kalimantan finalist.
 - [National] Top 5 Finalist – Cyber Security and IoT Olympics, ARA ITS 2023
 - ICPC Asia Jakarta Regional 2024 participant with team **Bogo Bogo Sort**.
-- Hacktoberfest contributor.
+- 2021 Hacktoberfest contributor.
 - Google Arcade and Gemini API Developer Competition participant.
 
 ## What I'm Learning
