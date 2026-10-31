@@ -71,7 +71,7 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 
 ### Developer Tools & Open Source
 
-- **[vite-plugin-flatten-output — Vite Build Plugin](https://github.com/myudak/vite-plugin-flatten-output)**  
+- **[vite-plugin-flatten-output — Vite Build Plugin; published an npm package](https://github.com/myudak/vite-plugin-flatten-output)**  
   Developed and published an npm plugin for simplifying Vite build outputs by flattening nested file structures. Supports configurable directory removal and file matching, particularly useful for multi-page applications and Chrome/Firefox extension development.
 
 - **[Vision-Label — AI-Powered Image Renaming](https://github.com/myudak/Vision-Label)**  
