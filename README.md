@@ -1,4 +1,4 @@
-# Hi, I'm Muchamad Yuda
+# Hi, I'm Muchamad Yuda,, open to work
 
 **Informatics student at Diponegoro University** from Bontang, Indonesia. I build practical software, AI-assisted tools, and engineering systems that turn messy real-world workflows into cleaner digital products.
 
