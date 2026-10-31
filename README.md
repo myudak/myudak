@@ -18,6 +18,15 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - **Siap Dips** - browser extension that improves UNDIP student portal usability with cleaner UI helpers.
 - **Robotics Vision Pipeline** - object detection workflow using D-FINE, ONNX, and TensorRT for robotics experiments.
 
+## Research
+
+### Separating Training Exposure from Data Scarcity in MuSGD–YOLO Fine-Tuning under Missing Annotations
+
+**Research manuscript · 2026**  
+Compared existing MuSGD, AdamW, and momentum-SGD fine-tuning recipes under controlled image exposure and missing training annotations. The study includes **120 training trials and 60 frozen-checkpoint test evaluations** across African Wildlife and a VOC2007-derived task, with three paired joint blocks. It reports dataset-dependent effects and an unresolved scarcity × missingness interaction, with explicit search-boundary and replication limits.
+
+[Paper (PDF)](https://github.com/myudak/sandbox/blob/main/muon-yolo-scarcity/output/pdf/muon_yolo_scarcity.pdf) · [Code & reproducibility](https://github.com/myudak/sandbox/tree/main/muon-yolo-scarcity) · [Interactive Kaggle results](https://www.kaggle.com/code/myudak/muon-yolo-journal?scriptVersionId=364100382)
+
 ## Featured Projects
 
 ### Web Apps & Product Engineering
@@ -122,7 +131,7 @@ I write and document what I learn across software engineering, AI, systems, and 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/myudak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://myudak.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@myudak.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuda@myudak.com)
 
 ---
 
