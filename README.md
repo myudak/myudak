@@ -18,22 +18,6 @@ Currently exploring **software engineering, AI agents, web apps, robotics vision
 - **Siap Dips** - browser extension that improves UNDIP student portal usability with cleaner UI helpers.
 - **Robotics Vision Pipeline** - object detection workflow using D-FINE, ONNX, and TensorRT for robotics experiments.
 
-## Research
-
-### Separating Training Exposure from Data Scarcity in MuSGD–YOLO Fine-Tuning under Missing Annotations
-
-**Research manuscript · 2026**  
-Compared existing MuSGD, AdamW, and momentum-SGD fine-tuning recipes under controlled image exposure and missing training annotations. The study includes **120 training trials and 60 frozen-checkpoint test evaluations** across African Wildlife and a VOC2007-derived task, with three paired joint blocks. It reports dataset-dependent effects and an unresolved scarcity × missingness interaction, with explicit search-boundary and replication limits.
-
-[Paper (PDF)](https://github.com/myudak/sandbox/blob/main/muon-yolo-scarcity/output/pdf/muon_yolo_scarcity.pdf) · [Code & reproducibility](https://github.com/myudak/sandbox/tree/main/muon-yolo-scarcity) · [Interactive Kaggle results](https://www.kaggle.com/code/myudak/muon-yolo-journal?scriptVersionId=364100382)
-
-### Do Wind-Directional Fire Features Improve Haze-Visibility Forecasts?
-
-**Research manuscript · 2026**  
-Evaluated **6-hour and 24-hour haze-visibility forecasts across 12 airports in Borneo and Sumatra (2015–2025)** using METAR observations and VIIRS satellite fire detections. Compared LightGBM models with non-directional fire features, time-shifted and permuted-wind placebos, missingness-matched controls, and five-seed ensembles under leave-one-year-out evaluation. **Fire counts modestly improved 24-hour forecasts, but wind-directional exposure showed no robust independent benefit** once seed variation and placebo comparisons were accounted for.
-
-[Paper (PDF)](https://github.com/myudak/pavana/blob/main/research/directional-fire/paper/directional-fire.pdf) · [LaTeX source](https://github.com/myudak/pavana/blob/main/research/directional-fire/paper/main.tex) · [Code & reproducibility](https://github.com/myudak/pavana/tree/main/research/directional-fire)
-
 ## Featured Projects
 
 ### Web Apps & Product Engineering
@@ -76,6 +60,21 @@ Evaluated **6-hour and 24-hour haze-visibility forecasts across 12 airports in B
   ESP32 sensor logging with MQTT, a local worker, Telegram notifications, SQLite storage, and dashboard visualization.
 
 - **Hydrambler** - smart tumbler prototype using Arduino Pro Mini, RTC module, and Bluetooth communication.
+
+### Research & Experiments
+
+- **Separating Training Exposure from Data Scarcity in MuSGD–YOLO Fine-Tuning under Missing Annotations**  
+  *Research manuscript · 2026*  
+  Compared existing MuSGD, AdamW, and momentum-SGD fine-tuning recipes under controlled image exposure and missing training annotations. The study includes **120 training trials and 60 frozen-checkpoint test evaluations** across African Wildlife and a VOC2007-derived task, with three paired joint blocks. It reports dataset-dependent effects and an unresolved scarcity × missingness interaction, with explicit search-boundary and replication limits.
+
+[Paper (PDF)](https://github.com/myudak/sandbox/blob/main/muon-yolo-scarcity/output/pdf/muon_yolo_scarcity.pdf) · [Code & reproducibility](https://github.com/myudak/sandbox/tree/main/muon-yolo-scarcity) · [Interactive Kaggle results](https://www.kaggle.com/code/myudak/muon-yolo-journal?scriptVersionId=364100382)
+
+
+- **Do Wind-Directional Fire Features Improve Haze-Visibility Forecasts?**  
+  *Research manuscript · 2026*  
+  Evaluated **6-hour and 24-hour haze-visibility forecasts across 12 airports in Borneo and Sumatra (2015–2025)** using METAR observations and VIIRS satellite fire detections. Compared LightGBM models with non-directional fire features, time-shifted and permuted-wind placebos, missingness-matched controls, and five-seed ensembles under leave-one-year-out evaluation. **Fire counts modestly improved 24-hour forecasts, but wind-directional exposure showed no robust independent benefit** once seed variation and placebo comparisons were accounted for.
+  
+  [Paper (PDF)](https://github.com/myudak/pavana/blob/main/research/directional-fire/paper/directional-fire.pdf) · [LaTeX source](https://github.com/myudak/pavana/blob/main/research/directional-fire/paper/main.tex) · [Code & reproducibility](https://github.com/myudak/pavana/tree/main/research/directional-fire)
 
 ### Engineering & Academic Work
 
